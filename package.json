@@ -1,0 +1,36 @@
+{
+  "name": "orderd-array-remove-all",
+  "version": "1.0.0",
+  "description": "Removed all occurrence of an element from array by keeping order of elements inside array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramcse/orderd-array-remove-all.git"
+  },
+  "keywords": [
+    "ordered",
+    "array",
+    "remove",
+    "element",
+    "splice",
+    "all"
+  ],
+  "author": "Vikram Jadhav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vikramcse/orderd-array-remove-all/issues"
+  },
+  "homepage": "https://github.com/vikramcse/orderd-array-remove-all#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^2.5.3",
+    "eslint-config-airbnb": "^6.2.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "orderd-array-remove": "^1.0.0"
+  }
+}
